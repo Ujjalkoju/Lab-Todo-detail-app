@@ -8,3 +8,5 @@
 ![](./todo4.jpg)
 ### Landscape view
 ![](./todo5.jpg)
+### GIF
+![GIF](todo2Gif.gif)
